@@ -83,7 +83,7 @@ const Dashboard = () => {
                 bgColor_2="rgba(53, 162, 235, 0.8)"
               />
             </div>
-
+{/* 
             <div className="dashboard-categories">
               <h2>Inventory</h2>
 
@@ -99,8 +99,8 @@ const Dashboard = () => {
                     />
                   );
                 })}
-              </div>
-            </div>
+              </div> 
+            </div> */}
           </section>
 
           <section className="transaction-container">
