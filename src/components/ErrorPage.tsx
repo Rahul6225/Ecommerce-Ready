@@ -675,7 +675,7 @@ const ErrorPage = () => {
               </p>
         </div>
       </main>
-      {/* <div className="hamburger-menu">
+      {/*<div className="hamburger-menu">
         <button className="burger" data-state="closed">
           <span></span>
           <span></span>
